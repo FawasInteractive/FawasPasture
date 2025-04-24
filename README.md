@@ -21,15 +21,19 @@
 </div>
 
 ![image](https://img.shields.io/github/issues/FawasInteractive/FawasPasture?color=%230f172a&style=for-the-badge)
+![image](https://img.shields.io/github/stars/FawasInteractive/FawasPasture?color=%230f172a&style=for-the-badge)
 
-## 🖥️ Compatibility
+## 🐑 About Pasture
+Pasture is a browser built primarily to enhance productivity for software and game developers. It's goal is to feature a clean, customizable interface that supports efficient workflows, integrates useful tools, and enhances performance for research and creative work, but without infringing on the needs of non-developers.
+
+## 🌍 Compatibility
 
 Pasture is built with Electron, which supports Mac, Linux, and Windows. Currently only Windows has been tested, but the other operating systems are a priority for the future.
 
-Windows: Fully tested
-Mac: In progress
-Linux: In progress
+- Windows: Fully tested.
+- Mac: In progress.
+- Linux: In progress.
 
-## 🤝 Contribution
+## Contribution
 
-## 📥 Installation
+## Installation
