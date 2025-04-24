@@ -1,4 +1,4 @@
-<img src="newicon.svg" width="100px" align="left">
+<img src="newicon.png" width="100px" align="left">
 
 ### `Fawas Pasture`
 [![Downloads](https://img.shields.io/github/downloads/zen-browser/desktop/total.svg)](https://github.com/zen-browser/desktop/releases)
