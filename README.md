@@ -1,3 +1,5 @@
+<img src="newicon.svg" width="100px" align="left">
+
 ### `Fawas Pasture`
 [![Downloads](https://img.shields.io/github/downloads/zen-browser/desktop/total.svg)](https://github.com/zen-browser/desktop/releases)
 [![Crowdin](https://badges.crowdin.net/zen-browser/localized.svg)](https://crowdin.com/project/zen-browser)
