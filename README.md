@@ -49,5 +49,5 @@ We welcome contributions! Check out our [Contributing Guide](#) to get started.
 ---
 
 <p align="center">
-  <strong>Join the Pasture community and boost your productivity!</strong>
+  <strong>Join the Pasture community Discord server to discuss changes, and / or make issues on this GitHub page.</strong>
 </p>
